@@ -17,6 +17,7 @@
         <e p="SimpleDriving" t="Include">
           <e p="_Scripts" t="Include">
             <e p="Car.cs" t="Include" />
+            <e p="MainMenu.cs" t="Include" />
             <e p="ScoreHandler.cs" t="Include" />
           </e>
         </e>
