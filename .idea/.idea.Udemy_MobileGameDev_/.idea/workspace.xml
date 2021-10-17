@@ -13,6 +13,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/SimpleDriving/_Scripts/Car.cs" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectId" id="1ypBrenZKTj2xhQgTfTEvfCaS4h" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -34,9 +41,8 @@
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
       <option name="pid" />
-      <option name="projectPathOnTarget" />
       <option name="selectedOptions">
-        <list />
+        <set />
       </option>
       <method v="2" />
     </configuration>
@@ -44,9 +50,8 @@
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
       <option name="pid" />
-      <option name="projectPathOnTarget" />
       <option name="selectedOptions">
-        <list />
+        <set />
       </option>
       <method v="2" />
     </configuration>
@@ -61,6 +66,7 @@
       <updated>1632938852885</updated>
       <workItem from="1632938864125" duration="3619000" />
       <workItem from="1632993988823" duration="1358000" />
+      <workItem from="1634495892174" duration="453000" />
     </task>
     <servers />
   </component>
